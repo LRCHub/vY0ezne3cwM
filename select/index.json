@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はなまるアドベンチャー",
+  "base_artist": "はなまるアニマル",
+  "createdAt": "2025-12-27T01:36:42.026495Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はなまるアドベンチャー",
+      "artist": "はなまるアニマル",
+      "has_synced": false,
+      "path": "select/pl_01_はなまるアドベンチャー_はなまるアニマル.txt"
+    }
+  ]
+}
